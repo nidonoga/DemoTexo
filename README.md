@@ -17,3 +17,4 @@ Detalhes do projeto:
 - [x] Spring Boot 2.7.8
 - [x] H2 Database
 - [x] Spring Tool Suite 4.12.0.RELEASE
+- [x] Testes Unitários
